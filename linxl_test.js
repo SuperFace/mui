@@ -4,5 +4,5 @@ function fn(){
 	alert(76666688887);
 }
 
-console.log(888);
+console.log(88885555);
 
